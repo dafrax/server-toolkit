@@ -105,7 +105,7 @@ The installer is safe to re-run.
 
 ```bash
 git clone https://github.com/dafrax/server-toolkit.git
-cd sysadmin-tools
+cd server-toolkit
 sudo ./scripts/setup-tools.sh
 ```
 
@@ -214,7 +214,7 @@ strace -p <PID>
 ## Repository layout
 
 ```text
-sysadmin-tools/
+server-toolkit/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
